@@ -1,2 +1,1 @@
-# Lottery-number-react
-Created with CodeSandbox
+## A simple lottery number generator
